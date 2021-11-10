@@ -105,3 +105,25 @@ deploy:
   type: git
   repository: https://github.com/dtdivecenter/dtdivecenter.github.io.git
   branch: master
+
+sitemap:
+  path: sitemap.xml
+  
+neat_enable: true
+neat_html:
+  enable: true
+  exclude: 
+neat_css:
+  enable: true
+  exclude:
+    - '**/*.min.css'
+neat_js:
+  enable: true
+  mangle: true
+  output:
+  compress:
+  exclude:
+    - '**/*.min.js'
+    - '**/jquery.fancybox.pack.js'
+    - '**/index.js'
+    - '**/fireworks.js'
