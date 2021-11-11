@@ -131,3 +131,6 @@ neat_js:
     - '**/jquery.fancybox.pack.js'
     - '**/index.js'
     - '**/fireworks.js'
+
+favicon: ''
+favicon_all: '/img/DTDiveCenter_ico'
