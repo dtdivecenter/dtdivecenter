@@ -134,3 +134,8 @@ neat_js:
 
 favicon: ''
 favicon_all: '/img/DTDiveCenter_ico'
+
+# Google Analytics
+google_analytics:
+  tracking_id: G-G7NE1FMM28
+  localhost_ignored: true
