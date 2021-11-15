@@ -8,11 +8,11 @@ tags:
 abbrlink: 8807051d
 date: 2021-11-15 13:59:46
 ---
-### 海豚灣-La Laguna Point
+### 海豚灣(PG)-La Laguna Point
 <!--more-->
-這篇介紹海豚灣-La Laguna Point潛點。
+這篇介紹海豚灣(PG)-La Laguna Point潛點。
 
-### 潛點介紹
+### 潛點介紹-豐富的珊瑚魚類
 ```sh
 地形     : 陡坡潛水
 證照     : AOW以上
