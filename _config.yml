@@ -139,3 +139,12 @@ favicon_all: '/img/DTDiveCenter_ico'
 google_analytics:
   tracking_id: G-G7NE1FMM28
   localhost_ignored: true
+
+nofollow:
+  enable: true
+  field: site
+  exclude:  # 不加上 nofollow 的友情連結可以放在這邊。
+    - 'https://www.facebook.com/people/%E6%BD%9B%E6%B0%B4/100074826641917'
+    - 'https://www.instagram.com/dtdivecenter'
+    - 'https://twitter.com/dtdivecenter'
+    - 'mailto:dtdivecenter@gmail.com'
