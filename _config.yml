@@ -13,7 +13,7 @@ timezone: Asia/Taipei
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://dtdivecenter.github.io
+url: https://dtdivecenter.com/
 permalink: posts/:abbrlink/
 permalink_defaults:
 pretty_urls:
@@ -137,7 +137,7 @@ favicon_all: '/img/DTDiveCenter_ico'
 
 # Google Analytics
 google_analytics:
-  tracking_id: G-G7NE1FMM28
+  tracking_id: G-PZKDW2K818
   localhost_ignored: true
 
 nofollow:
