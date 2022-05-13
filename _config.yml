@@ -103,7 +103,7 @@ theme: hexo-theme-aircv
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/dtdivecenter/dtdivecenter.github.io.git
+  repository: https://dtdivecenter@github.com/dtdivecenter/dtdivecenter.github.io.git
   branch: master
 
 sitemap:
